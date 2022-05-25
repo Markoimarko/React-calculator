@@ -1,4 +1,4 @@
-# Kalkulator react
+# React calculator
 
 ## Getting Started with Create React App
 
