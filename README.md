@@ -1,4 +1,4 @@
-# Kalkulator napravljen sa Reactom
+# Kalkulator react
 
 ## Getting Started with Create React App
 
